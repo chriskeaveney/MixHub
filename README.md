@@ -10,13 +10,13 @@ The application will allow users to register an account & login. Users will also
 
 # Quick Start
 
-- To use the online version of this application hosted on Heroku: ⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
+- To use the online version of the Progressive Web Application hosted on Heroku: ⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
 
 # Technologies
 
 - MERN (Mongo DB, Express.js, React.js, Node.js)
 - Redux (for global state management)
-- React Native (For native mobile version)
+- React Native (for native mobile version)
 
 Styling:
 - Material CSS
