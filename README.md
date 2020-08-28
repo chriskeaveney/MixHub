@@ -1,2 +1,32 @@
 # MixHub
-A MERN stack platform for trading vinyl records
+
+This project is a MERN stack application. It is a project which was carried out as a 4th & final year project for the Research Project module in the Creative Computing course at IADT Dun Laoighre. This app is a progressive web app & also available as a native mobile app. This folder contains the complete files of the MixHub application.
+
+The goal for this application was to provide an online marketplace web application "MixHub" which allows users to trade vinyl records through a personalised experience.
+
+The application will allow users to register an account & login. Users will also be able to view all records from the database, create new records, edit & delete their own listed records, search for a particular record & also add images for their created records. The app includes a Discovery section which uses the Last FM api allowing users to discover new music artists similar to artists which they currently know. Lastly, users can also view the top 10 record stores in Dublin on the 'Record Hub' page which uses the Google Maps api.
+
+![](MixHub-pwa/images/1.png)
+
+# Quick Start
+
+- To use the online version of this application hosted on Heroku: https://mixhub-mern.herokuapp.com/
+
+# Native App
+
+- To run the react-native version of MixHub,
+
+1. Enter the folder: cd mixhub-native
+
+- Then run the following commands:
+
+2. npm install (in the root directory & client directory)
+
+3. react-native run-android - This runs the mobile app server . Ensure that a physical Android device is connected to the computer.
+
+# Extras
+
+- This project was bootstrapped with Create React App.
+
+![](MixHub-pwa/images/10.png) ![](MixHub-pwa/images/5.png)
+
