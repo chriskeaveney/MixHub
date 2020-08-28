@@ -1,6 +1,6 @@
 # MixHub Native
 
-- This project was bootstrapped with Create React App.
+- This project was created using React Native.
 
 ![](images/5.png) 
 
