@@ -10,7 +10,8 @@ The application will allow users to register an account & login. Users will also
 
 # Quick Start
 
-- To use the online version of the Progressive Web Application hosted on Heroku: ⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
+- To use the online version of the Progressive Web Application hosted on Heroku: 
+⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
 
 # Technologies
 
