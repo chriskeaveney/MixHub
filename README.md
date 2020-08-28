@@ -6,7 +6,7 @@ The goal for this application was to provide an online marketplace web applicati
 
 The application will allow users to register an account & login. Users will also be able to view all records from the database, create new records, edit & delete their own listed records, search for a particular record & also add images for their created records. The app includes a Discovery section which uses the Last FM api allowing users to discover new music artists similar to artists which they currently know. Lastly, users can also view the top 10 record stores in Dublin on the 'Record Hub' page which uses the Google Maps api.
 
-![](MixHub-pwa/images/1.png)
+![](images/1.png)
 
 # Quick Start
 
@@ -28,5 +28,5 @@ The application will allow users to register an account & login. Users will also
 
 - This project was bootstrapped with Create React App.
 
-![](MixHub-pwa/images/10.png) ![](MixHub-pwa/images/5.png)
+![](images/10.png) ![](images/5.png)
 
