@@ -1,0 +1,48 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "Mern Auth Example",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-js": "^9.12.1",
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "concurrently": "^4.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "google-maps-react": "^2.0.6",
+    "gridfs-stream": "^1.1.1",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.3",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.0.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-burger-menu": "^2.6.13",
+    "react-compound-slider": "^2.4.0",
+    "react-devtools": "^4.4.0",
+    "react-scripts": "^3.2.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "file-loader": "^5.0.2",
+    "nodemon": "^1.19.4",
+    "url-loader": "^3.0.0"
+  }
+}

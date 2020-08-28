@@ -1,0 +1,110 @@
+/* Medium sized devices (phones, 768px and down) - ipads etc. */
+
+/* Search bar for smaller devices */
+
+/* @media only screen and (max-width: 500px) {
+  .button-col {
+      flex-basis: 0 !important;
+      flex-grow: 1 !important;
+      max-width: 39.1% !important;
+  }
+} */
+
+/* create form greater than medium mac screen*/
+
+/* @media only screen and (max-width: 1440px) {
+.create-card {
+  margin-top: 200px !important;
+}
+} */
+
+@media only screen and (max-width: 375px) {
+  /* .brand-logo {
+    left: 26% !important;
+  } */
+
+  ::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-size: 12px !important;
+  }
+
+  /* View Record Style */
+}
+
+/* .btn-primary:hover {
+  color: #007bff !important;
+  background-color: #007bff !important;
+  border-color: #000 !important;
+} */
+
+[type="radio"]:not(:checked),[type="radio"]:checked {
+  position: relative !important;
+  opacity: 1;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: grey;
+  opacity: 0.5;
+  /* Firefox */
+  font-style: italic;
+  font-size: 14px;
+}
+
+/* label focus color */
+
+/* label underline focus color */
+
+/* label underline focus color */
+
+/* label underline focus color */
+
+/* Individual item */
+
+/* Change color on hover */
+
+/* The rest copied directly from react-burger-menu docs */
+
+/* Position and sizing of burger button */
+
+/* Color/shape of burger icon bars */
+
+/* Position and sizing of clickable cross button */
+
+/* Color/shape of close button cross */
+
+/* General sidebar styles */
+
+/* Morph shape necessary with bubble or elastic */
+
+/* Wrapper for item list */
+
+/* Styling of overlay */
+
+/* Safari */
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* input::placeholder {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 20px;
+} */
