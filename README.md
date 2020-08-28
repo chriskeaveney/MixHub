@@ -10,7 +10,19 @@ The application will allow users to register an account & login. Users will also
 
 # Quick Start
 
-- To use the online version of this application hosted on Heroku: https://mixhub-mern.herokuapp.com/
+- To use the online version of this application hosted on Heroku: ⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
+
+# Technologies
+
+- MERN (Mongo DB, Express.js, React.js, Node.js)
+- Redux (for global state management)
+- React Native (For native mobile version)
+
+Styling:
+- Material CSS
+- React Bootstrap
+- React Native Vector Icons
+- React Native Material UI
 
 # Native App
 
@@ -27,6 +39,4 @@ The application will allow users to register an account & login. Users will also
 # Extras
 
 - This project was bootstrapped with Create React App.
-
-![](images/10.png) ![](images/5.png)
 
