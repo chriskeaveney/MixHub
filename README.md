@@ -8,7 +8,11 @@ The application will allow users to register an account & login. Users will also
 
 ![](images/1.png)
 
-# Quick Start
+# Demos
+
+- Video Demo: https://youtu.be/Q7h-j3_PvhU
+
+- Showcase: https://onshow.iadt.ie/student/chris-keaveney/
 
 - To use the online version of the Progressive Web Application hosted on Heroku: 
 
