@@ -14,9 +14,7 @@ The application will allow users to register an account & login. Users will also
 
 - Showcase: https://onshow.iadt.ie/student/chris-keaveney/
 
-- To use the online version of the Progressive Web Application hosted on Heroku: 
-
-⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
+- To use the online version of the Progressive Web Application hosted on Heroku: ⚛️ https://mixhub-mern.herokuapp.com/ ⚛️
 
 # Technologies
 
