@@ -14,7 +14,7 @@ The application will allow users to register an account & login. Users will also
 
 - Showcase: https://onshow.iadt.ie/student/chris-keaveney/
 
-- Online version of the PWA hosted on Heroku: ⚛️  https://mixhub-mern.herokuapp.com/ ⚛️
+- Online version of the PWA hosted on Heroku (Update 2023 no longer available): ⚛️  https://mixhub-mern.herokuapp.com/ ⚛️
 
 # Technologies
 
